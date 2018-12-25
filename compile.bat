@@ -1,0 +1,1 @@
+cl matrix.c /openmp /link mkl_intel_lp64_dll.lib mkl_core_dll.lib mkl_intel_thread_dll.lib libiomp5md.lib
